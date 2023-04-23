@@ -12,6 +12,7 @@ First install JSON server Globally
 locate to json-server directory and
 Then Run this command
 `json-server --watch db.json -p 3001 -d 2000`
+make sure the port is not used by other local host
 
 ### `npm start`
 
