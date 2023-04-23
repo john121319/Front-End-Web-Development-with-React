@@ -9,6 +9,7 @@ In the project directory, you can run:
 ## `Start JSON server`
 First install JSON server Globally
 `npm install json-server -g`
+locate to json-server directory and
 Then Run this command
 `json-server --watch db.json -p 3001 -d 2000`
 
